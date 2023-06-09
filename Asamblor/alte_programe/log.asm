@@ -1,0 +1,3 @@
+MOV X, #100
+LOG X
+OUT X

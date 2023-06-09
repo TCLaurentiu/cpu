@@ -1,0 +1,3 @@
+MOV X, #70
+RTT X
+OUT X

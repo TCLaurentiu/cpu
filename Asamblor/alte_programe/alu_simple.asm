@@ -1,0 +1,6 @@
+MOV X, #20
+ADD X, X
+MOV Y, X
+SUB Y, #7
+MUL Y, X
+ADD X, Y

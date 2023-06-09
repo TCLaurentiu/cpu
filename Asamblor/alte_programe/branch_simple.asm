@@ -1,0 +1,4 @@
+MOV X, #0
+BRZ END
+MOV X, #1
+END:HLT

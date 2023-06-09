@@ -1,0 +1,35 @@
+MOV X, #1
+MOV Y, X
+SUB X, #2
+SUB Y, X
+ADD X, #3
+ADD X, X
+MUL X, Y
+MUL Y, #4
+LSR X, #5
+MOV Y, #6
+LSR X, Y
+LSL X, #7
+LSL Y, Y
+RSR X, #8
+RSR X, Y
+RSL X, #9
+RSL Y, #10
+DIV X, #11
+DIV X, Y
+MOD X, #2
+ADD X, #1
+MOD Y, X
+AND X, #5
+AND Y, X
+ORR X, #6
+ORR X, Y
+XOR X, #7
+XOR Y, X
+NOT X
+CMP X, #8
+CMP X, Y
+TST X, #9
+TST X, Y
+INC X
+DEC Y

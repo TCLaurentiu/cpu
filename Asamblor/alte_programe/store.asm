@@ -1,0 +1,5 @@
+MOV X, #100
+STR X, #5
+MUL X, #2
+MOV Y, X
+STR Y, #7
